@@ -37,3 +37,6 @@
 //     }
 // }
 
+const name="likhitha";
+const branch="cse";
+export{name as name1,branch as branch1};
